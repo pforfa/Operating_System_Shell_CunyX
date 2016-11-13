@@ -1,0 +1,1 @@
+ls -hal;;pwd;;;;;;   ls -al;;;;;  grep 'pwd' command.txt; pwd; pwd; ls -hal;quit; ls; ls -ha; ls -l; pwd; ;pwd;;;; touch something.txt;;ls -hal; rm something.txt;; ls -hal; quit;
